@@ -1,5 +1,8 @@
 {
   "name": "template-react-component-library",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/udith51"
+  },
   "version": "0.0.1",
   "description": "A react component library",
   "scripts": {
